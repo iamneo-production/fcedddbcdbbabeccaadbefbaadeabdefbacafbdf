@@ -1,0 +1,6 @@
+com/examly/springapp/TaskNotFoundException.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/Tasks.class
+com/examly/springapp/TasksController.class
+com/examly/springapp/TasksRepository.class
+com/examly/springapp/TasksService.class
