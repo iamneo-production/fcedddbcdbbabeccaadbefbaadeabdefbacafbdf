@@ -17,7 +17,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 @SpringBootTest
 @AutoConfigureMockMvc
 @RunWith(SpringRunner.class)
-public class HouseManagementRestApiApplicationTests {
+public class TaskManagementRestApiApplicationTests {
 
 	@Autowired
     private MockMvc mockMvc;	
